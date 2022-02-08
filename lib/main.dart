@@ -23,6 +23,7 @@ Future<void> _firebaseMessagingBackground( RemoteMessage message ) async {
 
   await Firebase.initializeApp();
 
+
 }
 
 void main() async {

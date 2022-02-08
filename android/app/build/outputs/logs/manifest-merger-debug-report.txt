@@ -208,9 +208,9 @@ MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\ERICK\.grad
 	android:usesCleartextTraffic
 		ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:28:9-44
 meta-data#com.google.android.geo.API_KEY
-ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:31:9-32:80
+ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:31:9-32:73
 	android:value
-		ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:32:16-78
+		ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:32:16-71
 	android:name
 		ADDED from E:\flutter_windows_2.8.1-stable\Flutter-Delivery-App-main\Flutter-Delivery-App-main\android\app\src\main\AndroidManifest.xml:31:20-65
 activity#com.example.restaurant.MainActivity

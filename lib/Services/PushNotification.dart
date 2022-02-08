@@ -84,7 +84,7 @@ class PushNotification {
     await http.post(uri, 
       headers: <String, String>{ 
         'Content-Type' : 'application/json',
-        'Authorization' : 'key=HERE YOUR Server key Cloud Messaging'
+        'Authorization' : 'key=AAAAqOg_kBg:APA91bGGlEhHMKSRQorAWFdz8Y0Yo4C_cDMi4b-gZNFV2Mp6pJ_9sBkDVshKrBW4yPUbJL75zsZ7nLgjgB_9SKe-rkT7qgNHUZsQclQ838SXgd-7X1p6k4X04eCoWV6iXqFjEnf7sEIw'
       },
       body: jsonEncode( <String, dynamic>{
         'notification' : {
@@ -106,7 +106,7 @@ class PushNotification {
     await http.post(uri, 
       headers: <String, String>{ 
         'Content-Type' : 'application/json',
-        'Authorization' : 'key=HERE YOUR Server key of Cloud Messaging'
+        'Authorization' : 'AAAACqjI_Fw:APA91bE3QIOfD9vDLxc7oy7n7AF9wvt4bQGWRO0i1rjYL5j9LU3jlnoO1mDTccyUsFw6StnHNdrHOjLCvthHH9-bf_e9KRrf-elepQvQrHWaooksm81bzydMIOaoSlIcGxda5xoidhlj'
       },
       body: jsonEncode( <String, dynamic>{
         'notification' : {

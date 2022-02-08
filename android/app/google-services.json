@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "950821146407",
-    "project_id": "delivery-flutter-a8e4c",
-    "storage_bucket": "delivery-flutter-a8e4c.appspot.com"
+    "project_number": "45781417052",
+    "project_id": "frave-food-17a5e",
+    "storage_bucket": "frave-food-17a5e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:950821146407:android:b7359cd1b6ba5619eb2302",
+        "mobilesdk_app_id": "1:45781417052:android:773da26c26f3448805fa99",
         "android_client_info": {
           "package_name": "com.example.restaurant"
         }
       },
       "oauth_client": [
         {
-          "client_id": "950821146407-acoh9s5ab6p0gd732ntlg9u1unc8e7po.apps.googleusercontent.com",
+          "client_id": "45781417052-pcak9gbm8pssqbuh3j07lbl2je4986qh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCeIvHiY-g1of-8hOGPcdbXP26dtcnPGiM"
+          "current_key": "AIzaSyDEL2ZHGfQ-a_66--7Ryc86S7VTQPIkLMk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "950821146407-acoh9s5ab6p0gd732ntlg9u1unc8e7po.apps.googleusercontent.com",
+              "client_id": "45781417052-pcak9gbm8pssqbuh3j07lbl2je4986qh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
